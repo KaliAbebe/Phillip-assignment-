@@ -1,0 +1,52 @@
+p {
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+.main1{
+ color: maroon;
+ text-decoration: underline;
+ font-size: 40px;
+}
+
+.main2 {
+ color: teal;
+ font-family: cursive;
+ text-decoration: underline;
+}
+
+.container1 {
+ text-transform: uppercase;
+ color: brown;
+ text-align: flex-start;
+}
+.checkbox {
+ color: purple;
+ font-size: 25px;
+}
+
+.button {
+ font-family: cursive;
+ shape-image-threshold: 3;
+ border-radius: 10px;
+ font-size: 20px;
+ color:rebeccapurple;
+}
+
+#generation {
+ color: teal;
+ font-family: cursive;
+ font-size:60px;
+ text-decoration: underline;
+ text-align: center;
+}
+.w3c {
+ font-size: 50px;
+ color:tomato;
+ text-decoration: underline;
+}
+.pic {
+ border-radius: 50px;
+}
+.pic2 {
+ border-radius: 50px;
+}
